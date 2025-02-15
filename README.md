@@ -10,6 +10,9 @@ Vanilla JavaScript basic projects
 7. Questions
 8. Menu
 9. Video
+10. Scroll
+11. Tabs
+
 
 
 
